@@ -1,0 +1,14 @@
+#firstbox {
+	float:left;
+	border:4px solid black;
+	padding:20px;
+	
+}
+#secondbox {
+	float:left;
+	width:250px;
+	margin-left:20px;
+	padding:20px;
+	border:4px solid black;
+	height:145px
+}
